@@ -57,10 +57,5 @@ This analysis helped uncover:
 ## 🧑‍💻 Author
 
 **Saharia Sarder**  
-🎓 CSE Graduate | Aspiring UI/UX Designer | Data Enthusiast  
-🔗 [LinkedIn](https://linkedin.com) *(Add your actual profile link here)*  
-📧 sahariasarder@example.com *(optional)*
+🎓 CSE Graduate | Data Analysis 
 
----
-
-⭐ *If you find this project helpful, don’t forget to star the repository!*
